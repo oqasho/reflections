@@ -7,10 +7,3 @@ When you initialize a repositiry, git greates a .git file which will start to tr
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 working directory has files of all kids in it, yet the staging area has the files that we need to track and commit at once.
-
-
-
-vv
-v
-v
-v
