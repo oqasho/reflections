@@ -24,4 +24,10 @@ They would help very well to make a different path of change to the code without
 
 How do the diagrams help you visualize the branch structure?
 
-They help a lot to be able to track where you are in the structure of a project to be more efficient. 
+They help a lot to be able to track where you are in the structure of a project to be more efficient.
+
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches together will result in having a single branch (master) that holds the commits for both original branches. We represnted it in the diagram the way we did, because it's perfectly explains how it works visually 
