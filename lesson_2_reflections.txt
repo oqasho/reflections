@@ -30,4 +30,10 @@ They help a lot to be able to track where you are in the structure of a project 
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-Merging two branches together will result in having a single branch (master) that holds the commits for both original branches. We represnted it in the diagram the way we did, because it's perfectly explains how it works visually 
+Merging two branches together will result in having a single branch (master) that holds the commits for both original branches. We represnted it in the diagram the way we did, because it's perfectly explains how it works visually.
+
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+when doing the merges manually, I can control what ends up in the final code, while if it were automated, it could create unexpected conflicts that will create bugs.
