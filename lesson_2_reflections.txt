@@ -13,3 +13,15 @@ working directory has files of all kids in it, yet the staging area has the file
 How can you use the staging area to make sure you have one commit per logical change?
 
 By checking out the diff with the staging area and the last commit and making sure that it contains the logical changes that you need. Also, by making sure to add the files to the staging area so that when they are commited, it following a perfectly logical point to commit.
+
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+They would help very well to make a different path of change to the code without affecting the original one.
+
+
+
+How do the diagrams help you visualize the branch structure?
+
+They help a lot to be able to track where you are in the structure of a project to be more efficient. 
