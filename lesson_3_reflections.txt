@@ -13,3 +13,9 @@ Because you don't know if you always want up pull everything that gets updated o
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It will allow us to be able to track our work and what we stored online or didn't yet. It also will help regulate the branches when we push or pull and there are changed already.
+
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would do so by sharing documents and talking to my collaborators and doing things manually. It's definately much harder to do that rather than using Git and GitHub.
